@@ -26,8 +26,8 @@ JSON
 $ git clone https://github.com/Ayrat-S/JSON.git
 
  6. Внутри локального JSON создать файл “new.json”.
-ls -la
-cd JSON
+$ ls -la
+$ cd JSON
 $ touch new.json
 
  7. Добавить файл под гит.
