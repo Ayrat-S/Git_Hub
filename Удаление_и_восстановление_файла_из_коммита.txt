@@ -1,0 +1,20 @@
+Удаление и восстановление файла из коммита:
+
+touch 4.txt
+
+git status
+
+git add 4.txt
+
+git commit -m "New"
+
+git rm 4.txt
+
+git status (отобразятся подсказки дальнейших действий)
+
+git restore --staged 4.txt (to unstage)
+
+git restore 4.txt
+
+
+

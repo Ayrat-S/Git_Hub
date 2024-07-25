@@ -86,6 +86,7 @@ $ git commit -m "add new file"
 $ git push
 
   9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
+Открываем страницу репозитория.
 Заходим во вкладку Pull requests
 Жмем Compare & pull request
 Смотрим на ветки, какой куда можно мержить на данный момент (Able to merge).
